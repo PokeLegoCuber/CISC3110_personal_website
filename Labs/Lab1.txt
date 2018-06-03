@@ -1,0 +1,62 @@
+(Chapter 3)
+1.pwd:
+(output):/users1/st/vxie
+known as print working directory, tells you what directory you're currently in
+
+2.who
+(output):
+mbriskma pts/1        2017-09-10 22:36 (63.143.204.163)
+mjacques pts/2        2017-09-11 00:37 (71.183.68.163)
+allkhan  pts/3        2017-09-10 21:38 (96.250.91.222)
+jouyang  pts/5        2017-09-10 22:39 (72.89.164.35)
+pcheekap pts/6        2017-09-10 22:20 (184.152.178.157)
+mbriskma pts/7        2017-09-10 22:56 (63.143.204.163)
+mbriskma pts/8        2017-09-10 23:31 (63.143.199.192)
+mbriskma pts/9        2017-09-10 23:48
+vxie     pts/10       2017-09-11 00:32 (108.27.42.92)
+mjacques pts/11       2017-09-10 23:52 (71.183.68.163)
+mbriskma pts/12       2017-09-11 00:38 (63.143.199.192)
+
+displays a list of users who are currently logged into the computer
+
+3.whoami
+(output):vxie
+Tells you which user you're currently using
+
+4.date
+(output):Mon Sep 11 00:51:38 EDT 2017
+Prints out the dat, date, and using the military time
+
+5.man cal
+(output):Gives me the manual about the calendar app built into UNIX
+
+(Chapter 6-9)
+
+1.cd ~
+2.Yes,4
+3.37 files. . Is for hidden directories and .. is the parent directory.
+4.You're in the directory and you're allowed to read, write, and execute the file
+6.You get a visual of a calendar of all the months of 2014
+8.summer.2014 should contain all the info of "jun.2014 jul.2014 aug.2014" as the cat command concatenates them
+12.Moves you to the "MyCalendars" directory, tells your current directory, and lists all your files in the folder
+13.It removed the summer.2014 file
+
+Chapter 10
+15.Sorts all the list of users who are currently logged in alphabetical order
+16.It views the "SUM.2014"
+17.lists all files that end with the ".2014" extension
+19.I see all the processes
+
+Chapter 11
+21. I got nothing, it said *.2014: No such file or directory
+
+Chap 30
+24.
+This is my very first script.
+The current date is:
+Mon Sep 11 09:44:47 EDT 2017
+My login is:
+vxie
+
+27.It says "exit" and the time the script was done
+
